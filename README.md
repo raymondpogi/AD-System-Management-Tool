@@ -33,3 +33,6 @@ A PowerShell GUI tool for managing Active Directory users and groups, optimizing
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/AD-System-Management-Tool.git
+
+![image](https://github.com/user-attachments/assets/c677d021-a0be-4f33-af58-6e4b57a36d73)
+
